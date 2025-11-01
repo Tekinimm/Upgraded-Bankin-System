@@ -15,7 +15,7 @@ It simulates a basic **Bank Account System**, where a user can:
 ---
 
 ## 🚀 Features
-- Two predefined accounts (e.g., Emre and Tekin)
+- Two predefined accounts (e.g., John and Rick)
 - Dynamic account switching
 - Input handling with `Scanner`
 - Realistic transaction logic with validation
